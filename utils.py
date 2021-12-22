@@ -1,0 +1,21 @@
+RENAMED_COLUMNS = {
+    'iyear':'Year',
+    'imonth':'Month',
+    'iday':'Day', 
+    'country_txt':'Country',
+    'provstate':'state',
+    'region_txt':'Region',
+    'attacktype1_txt':'AttackType',
+    'target1':'Target',
+    'nkill':'Killed',
+    'nwound':'Wounded',
+    'summary':'Summary',
+    'gname':'Group',
+    'targtype1_txt':'Target_type',
+    'weaptype1_txt':'Weapon_type',
+    'motive':'Motive', 
+    'property':'PropertyDamage', 
+    'propextent_txt':'PropertyDamageExtent',
+    'weaptype1': 'WeaponType',
+    'attacktype1': 'Attack_type'
+}
